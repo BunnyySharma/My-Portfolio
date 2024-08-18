@@ -39,7 +39,12 @@ p{
 }
 
 hr{
-    margin: 5% 0;
+    /* margin: 5% 0; */
+    border-style: dotted none  none;
+    border-width: 0.8rem;
+    width: 5%;
+    margin: 5% auto 5% auto;
+    opacity: 0.2;
 }
 
 .name{
