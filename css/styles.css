@@ -191,4 +191,8 @@ hr{
         padding-top: 20%; /* Increase padding */
     }
 
+    .top{
+        height: 60vh;
+    }
+
 }
